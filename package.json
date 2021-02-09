@@ -1,0 +1,11 @@
+{
+  "name": "87lux",
+  "version": "1.0.0",
+  "description": "87lux home page ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "carla montano",
+  "license": "ISC"
+}
